@@ -10,6 +10,7 @@
 
 # production
 /build
+/settings.txt
 
 # misc
 .DS_Store
